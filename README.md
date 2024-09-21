@@ -16,3 +16,6 @@ int main() {
 }
 ```
 <br>
+
+# Daily Progress: ⤴️
+ > ## Day 1  - [Click Me]()
