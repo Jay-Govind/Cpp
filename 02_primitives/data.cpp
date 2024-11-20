@@ -13,7 +13,7 @@ int main()
     cout << pi << endl;
 
     char letter = 'A';
-    letter = 'AB';          // This will store `B`
+    letter = 'AB';       // This will store `B`
     cout << letter << endl;
 
     bool isTrue = 5;
